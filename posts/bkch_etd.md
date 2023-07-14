@@ -1,3 +1,8 @@
+---
+title: "BKCH"
+date: "2023-07-14"
+---
+
 | Net Assets (%) | Ticker  | Name                        | SEDOL   | Market Price ($) | Shares Held | Market Value ($) |
 | -------------- | ------- | --------------------------- | ------- | ---------------- | ----------- | ---------------- |
 | 12.89          | COIN    | COINBASE GLOBA-A            | BMC9P69 | 107.00           | 143,638     | 15,369,266.00    |
