@@ -30,7 +30,7 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm Craig. A software engineer at <a href="https://messari.io/">Messari.</a> You can contact me on <a href="https://twitter.com/craigjson">twitter.</a>
+        <p>Hello, I'm Craig. A software engineer and crypto enthusiast. </a> You can contact me on <a href="https://twitter.com/craigjson">twitter.</a>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
